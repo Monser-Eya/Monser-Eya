@@ -28,7 +28,7 @@
 - 
 ## 🤝 **Let’s Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eya%20Monser-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eya-monser-183160326)
-📫 **Email:** [eyamonser197@gmail.com](mailto:eyamonser197@gmail.com)
+📫 **Email:** [Contact me via email](mailto:eyamonser197@gmail.com)
 
 ## 🎨 **Fun Fact**  
 💡 I love coding while sipping coffee ☕ and listening to soft jazz 🎶.  
