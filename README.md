@@ -27,7 +27,7 @@
 - 📚 Continuous learning to level up in **React Native** and advanced backend systems.
 - 
 ## 🤝 **Let’s Connect**  
-[![LinkedIn](https://www.linkedin.com/in/eya-monser-183160326)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eya%20Monser-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eya-monser-183160326)
 📫 **Email:** [eyamonser197@gmail.com]
 
 ## 🎨 **Fun Fact**  
